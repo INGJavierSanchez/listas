@@ -1,9 +1,8 @@
 export default function categorias(){
     return <html>
      
-    <div><li>COMPUTADORES</li></div>
-    <div><li>CELULARES</li></div>
-    <div><li>ACCESORIOS</li></div>
+    <div><h1>Categorias</h1></div>
+  
    
     </html>
 }
