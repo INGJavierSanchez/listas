@@ -13,11 +13,6 @@ export default function Navbar(){
   Tienda
   </Link>
   </li>
-  <li>
-  <Link href="/tienda/categorias">
-  Categorias
-  </Link>
-  </li>
 </ul>
 </nav>
 );

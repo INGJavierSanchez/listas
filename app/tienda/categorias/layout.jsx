@@ -1,6 +1,10 @@
 import Link from "next/link";
+export const metadata ={
+    title: "Tienda -> Categorias"
 
-export default function  TiendaLayout({ children }){
+}
+
+export default function  CategoriaLayout({ children }){
     return <>
     <nav>
         <h3>Sección Categorias</h3>
